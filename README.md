@@ -14,11 +14,11 @@ Interactive Menus: User-friendly menus guide you through scan options and config
 
 **Usage**
 
-Clone the repository to your local machine.
-Ensure you have Python 3 installed.
-Install the required libraries by running pip install -r requirements.txt.
-Run the script by executing python penetration_toolkit.py.
-Follow the on-screen menus to perform Nmap and Dirsearch scans.
+Clone the repository to your local machine.<br>
+Ensure you have Python 3 installed.<br>
+Install the required libraries by running pip install -r requirements.txt.<br>
+Run the script by executing python penetration_toolkit.py.<br>
+Follow the on-screen menus to perform Nmap and Dirsearch scans.<br>
 
 **Disclaimer**
 This toolkit is intended for educational and ethical use only. Be sure to obtain proper authorization before conducting any penetration tests on networks or web applications you do not own or have explicit permission to test.
