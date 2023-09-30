@@ -9,7 +9,7 @@ init(autoreset=True)
 # Define a list of foreground colors in rainbow order
 rainbow_colors = [Fore.RED, Fore.YELLOW, Fore.GREEN, Fore.CYAN, Fore.BLUE, Fore.MAGENTA]
 
-# Replace this with your base64-encoded logo
+# base64-encoded logo
 encoded_logo = """
 LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyAgX18gICAgIF9fX19fX19fX18gIF9fX19fXwojICBcIFwgICAvIF9fX18vIF9fIFwvIF9fX18vCiMgICBcIFwgLyAvICAgLyAvXy8gLyAvXyAgICAKIyAgIC8gXy8gL19fXy8gX19fXy8gX18vICAgIAojICAvXyhfXF9fX18vXy8gICAvXy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgIAotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpXZWxjb21lIHRvIG15IFRvb2wgLSAKTWFkZSBCeSBDeWJlclBhdGhGaW5kZXIgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCg==
 """
