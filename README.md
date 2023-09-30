@@ -1,24 +1,23 @@
-# CyberPathFinder-ToolKit
+This Python script provides a comprehensive penetration testing toolkit for network reconnaissance and web directory scanning. It integrates popular tools like Nmap, Dirsearch, Burp Suite, and Nikto into an interactive command-line interface with color-coded menus and customizable options.
 
-This Python script serves as a versatile penetration testing toolkit, allowing you to perform network reconnaissance and web directory scanning using popular tools like Nmap and Dirsearch. It provides an interactive command-line interface with color-coded menus and options for customizing your scans.
+**Key Features:**<br>
+**Nmap, Dirsearch, Burp Suite, and Nikto Integration:** Initiate scans using Nmap for network mapping, Dirsearch for web directory enumeration, Burp Suite for web application testing, and Nikto for web server vulnerability scanning.<br>
+**
+Customizable Flags**: Easily tailor your scans by customizing flags and options for Nmap and Dirsearch.<br>
 
-**Features**
+**Change Target on the fly: **Modify your target (IP or URL) without restarting the script, enhancing flexibility during testing.<br>
 
-Nmap and Dirsearch Integration: You can initiate Nmap and Dirsearch scans from the menu, providing flexibility for both network and web application testing.
+**Interactive Menus:** User-friendly menus guide you through scan configurations, ensuring a smooth testing experience.<br>
 
-Customizable Flags: Easily customize scan flags and options for Nmap and Dirsearch to tailor your penetration testing needs.
+**File Download Menu:** Download files from URLs using wget or curl directly from the toolkit.<br>
 
-Change Target: Change your target (IP or URL) on the fly without restarting the script.
-
-Interactive Menus: User-friendly menus guide you through scan options and configurations.
-
-**Usage**
+**Usage**:<br>
 
 Clone the repository to your local machine.<br>
 Ensure you have Python 3 installed.<br>
 Install the required libraries by running pip install -r requirements.txt.<br>
-Run the script by executing python penetration_toolkit.py.<br>
-Follow the on-screen menus to perform Nmap and Dirsearch scans.<br>
+Run the script using python penetration_toolkit.py.<br>
+Follow the on-screen menus to perform scans and file downloads.<br>
 
-**Disclaimer**
-This toolkit is intended for educational and ethical use only. Be sure to obtain proper authorization before conducting any penetration tests on networks or web applications you do not own or have explicit permission to test.
+
+**Disclaimer:** This toolkit is intended exclusively for educational and ethical purposes. Always obtain proper authorization before conducting penetration tests on networks or web applications that you do not own or lack explicit permission to test.
